@@ -1,0 +1,8 @@
+The .ipynb notebook works with the .txt file in this directory, must make sure the script and data are in the same directory
+
+Data was downloaded on April 13, 2020 at 12:48 pm PDT.
+
+Data from Johns Hopkins can be found here:https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv
+
+The main github for Johns Hopkins can be found here: https://github.com/CSSEGISandData/COVID-19
+
