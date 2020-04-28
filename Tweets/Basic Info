@@ -1,0 +1,7 @@
+Twitter IDs are downloaded from: https://github.com/echen102/COVID-19-TweetIDs
+Use twarc library to 'hydrate' IDs, resuling in a JSON file. 
+More info on twarc can be found here: https://github.com/DocNow/twarc
+A Twitter Developer Account is needed to use twarc. I found it necessary to create an application.
+I used my twitter account URL for the required fields when creating the app.
+
+
