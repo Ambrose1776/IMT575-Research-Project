@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Fake News Police Project Page
 
 You can use the [editor on GitHub](https://github.com/Ambrose1776/IMT575-Research-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
