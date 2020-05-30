@@ -1,8 +1,8 @@
 ## Welcome to Fake News Police Project Page
 
-You can use the [editor on GitHub](https://github.com/Ambrose1776/IMT575-Research-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In March 2020, the World Health Organization declared the glaboal spread of a novel coronavirus SARS-CoV-2 a pandemic. COVID‐19 pandemic has affected over 100 countries in a matter of weeks. People's response toward social distancing in the emerging pandemic is uncertain. In this project, we hope to undetstand what the overall social attitudes toward social distancing policy are like in the state of Washington and Florida, and to explore what degree these attitudes are reflected in measures of social distancing practices.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](IMT575-Research-Project/united-nations-covid-19-response-IKyhoO8giSA-unsplash.jpg)
 
 ### Markdown
 
