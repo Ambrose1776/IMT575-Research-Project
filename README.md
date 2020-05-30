@@ -2,31 +2,11 @@
 
 In March 2020, the World Health Organization declared the glaboal spread of a novel coronavirus SARS-CoV-2 a pandemic. COVID‐19 pandemic has affected over 100 countries in a matter of weeks. People's response toward social distancing in the emerging pandemic is uncertain. In this project, we hope to undetstand what the overall social attitudes toward social distancing policy are like in the state of Washington and Florida, and to explore what degree these attitudes are reflected in measures of social distancing practices.
 
-![Image](IMT575-Research-Project/united-nations-covid-19-response-IKyhoO8giSA-unsplash.jpg)
+![Image](IMT575-Research-Project/united-nations-covid-19-response-IKyhoO8giSA-unsplash.jpg =250x250)
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
