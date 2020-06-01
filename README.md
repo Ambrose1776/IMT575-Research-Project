@@ -18,6 +18,8 @@ To what degree do mitigation practices reflect social attitudes toward policies 
 
 ### Interesting Findings
 
+![Link](LDA_Vis_Mod1.html)
+
 ![Alt text](575 Mobility & Case Count Dashboard.PNG?raw=true)
 
 
