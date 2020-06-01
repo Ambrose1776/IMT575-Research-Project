@@ -4,7 +4,7 @@ In March 2020, the World Health Organization declared the glaboal spread of a no
 
 Our analysis appraoch is to first perform a sentiment analysis of tweets that mention topics related to COVID-19 and social distancing, and we will only focus on tweets from Washington and Florida. Also, we will measure the general sentiment towards social distancing policy in these two states over different time periods. Then, we will use Google aggregated mobility data to understand the population movement pattern in these two states and study to what degree these changes in movement patterns reflect the public sentiment on social distancing.
 
-![Alt text](united-nations-covid-19-response-IKyhoO8giSA-unsplash.jpg?raw=true)
+![Alt text](united-nations-covid-19-response-IKyhoO8giSA-unsplash.jpg?raw=true){:height="24px" width="48px"}
 
 ### Background
 Sentiment analysis of data from Twitter is nothing new. The United Nations has been using data from Twitter and other social media platforms to understand public perception of specific health initiatives in certain countries. To date there has been some work done on sentiment analysis of Twitter data with respect to COVID-19. Researchers have explored attitudes on using masks (Shen, 2020), categorizing tweets by emotion and building word frequency charts (Lim, 2020), and understanding topics of conversation and overall sentiment and emotional intensity across the Twitterverse (2020).
