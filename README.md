@@ -4,7 +4,7 @@ In March 2020, the World Health Organization declared the glaboal spread of a no
 
 Our analysis appraoch is to first perform a sentiment analysis of tweets that mention topics related to COVID-19 and social distancing, and we will only focus on tweets from Washington and Florida. Also, we will measure the general sentiment towards social distancing policy in these two states over different time periods. Then, we will use Google aggregated mobility data to understand the population movement pattern in these two states and study to what degree these changes in movement patterns reflect the public sentiment on social distancing.
 
-<iframe src="LDA_Vis_Mod1.html" width="900" frameborder="0", allowfullscreen = "true", height = "1000"></iframe>
+<iframe src="LDA_Vis_Mod1.html" width="900" frameborder="0", height = "1000"></iframe>
 
 ![Alt text](united-nations-covid-19-response-IKyhoO8giSA-unsplash.jpg){:height="400px" width="400px"}
 
